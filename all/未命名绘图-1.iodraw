@@ -7,7 +7,7 @@
         <mxCell id="ABXg_fBaV8J6IcADAgmR-1" value="微操作码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ABXg_fBaV8J6IcADAgmR-2" value="微操作码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ABXg_fBaV8J6IcADAgmR-2" value="目的地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ABXg_fBaV8J6IcADAgmR-3" value="微操作码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
