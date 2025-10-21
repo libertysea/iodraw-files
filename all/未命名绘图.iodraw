@@ -166,6 +166,9 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-43" value="对每个进程都不相同" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="175" y="1268" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-44" value="对每个进程都相同" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1338" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
