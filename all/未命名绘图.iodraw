@@ -160,6 +160,9 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-41" value="内核虚拟存储器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="1300" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1240" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
