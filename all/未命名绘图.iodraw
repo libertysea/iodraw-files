@@ -205,7 +205,7 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-56" value="&lt;span&gt;已初始化的数据（.data）&lt;/span&gt;&lt;div&gt;&lt;span&gt;initialized&amp;nbsp;data&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="360" y="1680" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-57" value="&lt;span&gt;程序文件（.text）&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-57" value="只读数据段（.rodata）" style="whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="360" y="1720" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-58" value="&lt;b&gt;（操作系统内核区）&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
