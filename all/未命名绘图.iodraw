@@ -202,6 +202,9 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-55" value="&lt;b&gt;未初始化的数据（.bss）&lt;/b&gt;&lt;div&gt;&lt;b&gt;uninitialized&amp;nbsp;data&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1640" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-56" value="&lt;b&gt;未初始化的数据（.bss）&lt;/b&gt;&lt;div&gt;&lt;b&gt;uninitialized&amp;nbsp;data&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1680" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
