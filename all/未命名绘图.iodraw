@@ -199,13 +199,13 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-54" value="&lt;b&gt;运行时堆&amp;nbsp;heap&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="1600" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-55" value="&lt;b&gt;未初始化的数据（.bss）&lt;/b&gt;&lt;div&gt;&lt;b&gt;uninitialized&amp;nbsp;data&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-55" value="&lt;span&gt;未初始化的数据（.bss）&lt;/span&gt;&lt;div&gt;&lt;span&gt;uninitialized&amp;nbsp;data&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="360" y="1640" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-56" value="&lt;b&gt;已初始化的数据（.data）&lt;/b&gt;&lt;div&gt;&lt;b&gt;initialized&amp;nbsp;data&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-56" value="&lt;span&gt;已初始化的数据（.data）&lt;/span&gt;&lt;div&gt;&lt;span&gt;initialized&amp;nbsp;data&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="360" y="1680" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-57" value="&lt;b&gt;程序文件（.text）&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-57" value="&lt;span&gt;程序文件（.text）&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="360" y="1720" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
