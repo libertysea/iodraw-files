@@ -145,7 +145,7 @@
             <mxPoint x="290" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-36" value="yu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-36" value="与进程相关的数据结构（如：页表、task 和 mm 结构，内核栈）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1240" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
