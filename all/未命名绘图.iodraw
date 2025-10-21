@@ -157,8 +157,8 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-39" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="550" y="1240" width="20" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="585" y="1288" width="50" height="30" as="geometry" />
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-41" value="内核虚拟存储器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1300" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
