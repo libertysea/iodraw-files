@@ -238,8 +238,11 @@
         <mxCell id="nBYAlKluWF0-FtBwFHSE-5" value="排队器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="770" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nBYAlKluWF0-FtBwFHSE-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="770" width="80" height="30" as="geometry" />
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-6" value="就绪队列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="770" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
