@@ -226,7 +226,7 @@
         <mxCell id="nBYAlKluWF0-FtBwFHSE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="740" width="510" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="nBYAlKluWF0-FtBwFHSE-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-2" value="CPU" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="830" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
