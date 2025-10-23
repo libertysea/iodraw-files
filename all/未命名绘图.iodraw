@@ -236,7 +236,10 @@
           <mxGeometry x="50" y="950" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nBYAlKluWF0-FtBwFHSE-5" value="排队器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="770" width="90" height="40" as="geometry" />
+          <mxGeometry x="90" y="770" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="770" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
