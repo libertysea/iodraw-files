@@ -227,7 +227,7 @@
           <mxGeometry x="360" y="1760" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBYAlKluWF0-FtBwFHSE-2" value="CPU" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="835" width="110" height="70" as="geometry" />
+          <mxGeometry x="625" y="835" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nBYAlKluWF0-FtBwFHSE-3" value="就绪进程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="640" width="90" height="60" as="geometry" />
@@ -301,7 +301,7 @@
             <mxPoint x="650" y="770" as="sourcePoint" />
             <mxPoint x="700" y="720" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="670" y="640" />
+              <mxPoint x="680" y="638" />
             </Array>
           </mxGeometry>
         </mxCell>
