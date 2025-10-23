@@ -241,7 +241,7 @@
         <mxCell id="nBYAlKluWF0-FtBwFHSE-6" value="就绪队列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="770" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nBYAlKluWF0-FtBwFHSE-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-7" value="分派器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="850" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
