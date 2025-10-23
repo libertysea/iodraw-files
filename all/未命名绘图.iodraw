@@ -277,8 +277,8 @@
             <mxPoint x="490" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBYAlKluWF0-FtBwFHSE-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="640" width="100" height="40" as="geometry" />
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-14" value="进程控制块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="660" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
