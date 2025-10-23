@@ -280,10 +280,10 @@
         <mxCell id="nBYAlKluWF0-FtBwFHSE-14" value="进程控制块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="660" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBYAlKluWF0-FtBwFHSE-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.682;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.606;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="nBYAlKluWF0-FtBwFHSE-14" target="nBYAlKluWF0-FtBwFHSE-8">
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.682;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="nBYAlKluWF0-FtBwFHSE-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="710" as="sourcePoint" />
-            <mxPoint x="610" y="660" as="targetPoint" />
+            <mxPoint x="430" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nBYAlKluWF0-FtBwFHSE-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.394;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.66;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="nBYAlKluWF0-FtBwFHSE-14" target="nBYAlKluWF0-FtBwFHSE-7">
