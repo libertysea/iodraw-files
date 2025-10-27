@@ -235,10 +235,10 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-69" value="只读" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="1745" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-70" value="页号&amp;nbsp;P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-70" value="页号&amp;nbsp;P" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="2040" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-71" value="页内偏移&amp;nbsp;W" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-71" value="页内偏移&amp;nbsp;W" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="2040" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
