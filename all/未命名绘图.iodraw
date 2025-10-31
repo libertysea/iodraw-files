@@ -286,7 +286,7 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-89" value="软件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;labelBorderColor=none;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="70" y="2480" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-90" value="由硬件直接执行微指令" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-90" value="由&lt;b&gt;硬件&lt;/b&gt;直接执行微指令" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="360" y="2725" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-91" value="&lt;p style=&quot;margin-top: 5pt; margin-bottom: 5pt; font-size: 12pt; color: black;&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;汇编程序（汇编器）：汇编语言&lt;/span&gt;&lt;span lang=&quot;en-US&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span lang=&quot;zh-CN&quot;&gt;机器语言&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
