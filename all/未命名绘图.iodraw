@@ -283,7 +283,7 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-88" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="140" y="2400" width="20" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-89" value="软件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-89" value="软件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="70" y="2480" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-90" value="由硬件直接执行微指令" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
