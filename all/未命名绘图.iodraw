@@ -298,8 +298,8 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-94" value="用机器语言解释操作系统" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="2565" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-95" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="335" y="2638" width="50" height="30" as="geometry" />
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-95" value="用微程序解释机器指令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2645" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
