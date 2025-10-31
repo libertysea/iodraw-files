@@ -247,11 +247,20 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-73" value="高级语言机器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="2400" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_hzhPyIaynjxnurSJnJ-74" target="2_hzhPyIaynjxnurSJnJ-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-74" value="操作系统机器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="2560" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_hzhPyIaynjxnurSJnJ-75" target="2_hzhPyIaynjxnurSJnJ-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-75" value="汇编语言机器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="2480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_hzhPyIaynjxnurSJnJ-76" target="2_hzhPyIaynjxnurSJnJ-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-76" value="机器语言机器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="2640" width="120" height="40" as="geometry" />
