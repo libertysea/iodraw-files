@@ -760,6 +760,9 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-236" value="&lt;b&gt;访问&amp;nbsp;Cache&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1420" y="4900" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-237" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="5328" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
