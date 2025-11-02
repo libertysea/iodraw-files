@@ -409,8 +409,8 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-138" value="外存地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="840" y="3720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-141" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="3778" width="50" height="30" as="geometry" />
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-141" value="请求分页页表字段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="3778" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
