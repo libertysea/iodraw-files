@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="HeoaJlOLixNxvhj33o4t">
-    <mxGraphModel dx="1489" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -761,12 +761,12 @@
           <mxGeometry x="1425" y="4900" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-237" value="若&amp;nbsp;Cache 未命中，访问主存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="125" y="5160" width="170" height="30" as="geometry" />
+          <mxGeometry x="130" y="5170" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-238" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=4.914933837429111;endSize=4.28695652173913;width=4.347826086956522;fontFamily=霞鹜文楷等宽 Medium;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="512.5" y="5150" as="sourcePoint" />
-            <mxPoint x="350" y="5150" as="targetPoint" />
+            <mxPoint x="522.5" y="5178.57" as="sourcePoint" />
+            <mxPoint x="360" y="5178.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
