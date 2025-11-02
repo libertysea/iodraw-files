@@ -492,6 +492,9 @@
             <mxPoint x="640" y="4510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-165" value="虚拟页号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="480" y="4620" width="200" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
