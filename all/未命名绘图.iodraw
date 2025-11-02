@@ -731,10 +731,10 @@
           <mxGeometry x="1678.5" y="5120" width="233" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-228" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="1801.5" y="5360" width="110" height="40" as="geometry" />
+          <mxGeometry x="1801.5" y="5380" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-229" value="Cache&amp;nbsp;组号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="1721.5" y="5360" width="80" height="40" as="geometry" />
+          <mxGeometry x="1721.5" y="5380" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-230" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="1798.5" y="5220" width="113" height="20" as="geometry" />
@@ -749,7 +749,7 @@
           <mxGeometry x="1678.5" y="5300" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-234" value="组内&lt;div&gt;块号&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="1678.5" y="5360" width="43" height="40" as="geometry" />
+          <mxGeometry x="1678.5" y="5380" width="43" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
