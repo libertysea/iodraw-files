@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2_hzhPyIaynjxnurSJnJ-147" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="4040" width="280" height="260" as="geometry" />
+          <mxGeometry x="840" y="4040" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="200" width="80" height="40" as="geometry" />
@@ -429,6 +429,9 @@
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-146" value="辅存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1000" y="4080" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-148" value="虚拟存储器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="910" y="3998" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
