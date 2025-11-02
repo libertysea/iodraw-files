@@ -528,7 +528,7 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-174" value="TLB&amp;nbsp;标记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="4640" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-175" value="页框号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-175" value="物理块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1000" y="4640" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
