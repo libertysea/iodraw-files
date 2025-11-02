@@ -610,8 +610,8 @@
             <mxPoint x="440" y="4200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-197" value="页表基址寄存器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="378" y="4250" width="120" height="60" as="geometry" />
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-197" value="页表基址寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="378" y="4120" width="92" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
