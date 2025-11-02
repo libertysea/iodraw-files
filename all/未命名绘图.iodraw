@@ -471,8 +471,8 @@
             <mxPoint x="770" y="4090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-157" value="虚拟地址&amp;nbsp;VA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215" y="4062" width="90" height="30" as="geometry" />
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-157" value="&lt;b&gt;虚拟地址&amp;nbsp;VA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="4062" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
