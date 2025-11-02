@@ -304,8 +304,11 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-96" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;软硬件交界面&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="440" y="2608" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-97" value="物理地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="3040" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="3120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
