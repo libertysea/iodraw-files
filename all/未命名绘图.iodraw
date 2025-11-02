@@ -626,7 +626,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-200" value="物理块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="4730" width="70" height="20" as="geometry" />
+          <mxGeometry x="1320" y="4740" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-201" value="页内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="4740" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
