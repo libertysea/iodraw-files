@@ -761,7 +761,7 @@
           <mxGeometry x="1425" y="4900" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-237" value="若&amp;nbsp;Cache 未命中，访问主存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="5370" width="170" height="30" as="geometry" />
+          <mxGeometry x="125" y="5160" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
