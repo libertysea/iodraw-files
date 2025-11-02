@@ -520,7 +520,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-172" value="TLB&amp;nbsp;表项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="923" y="4676" width="70" height="30" as="geometry" />
+          <mxGeometry x="930" y="4676" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-173" value="有效位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="4640" width="40" height="20" as="geometry" />
@@ -530,6 +530,12 @@
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-175" value="物理块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1000" y="4640" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-176" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="4630" as="sourcePoint" />
+            <mxPoint x="130" y="4580" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
