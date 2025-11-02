@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="HeoaJlOLixNxvhj33o4t">
-    <mxGraphModel dx="992" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -551,13 +551,34 @@
               <mxPoint x="90" y="4580" />
               <mxPoint x="80" y="4690" />
               <mxPoint x="90" y="4730" />
-              <mxPoint x="120" y="4770" />
+              <mxPoint x="110" y="4780" />
               <mxPoint x="150" y="4820" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-178" value="查找&amp;nbsp;TLB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="165" y="4588" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-179" value="物理块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="3730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-180" value="页号" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="3730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-181" value="状态位&amp;nbsp;P" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="490" y="3730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-182" value="访问字段&amp;nbsp;A" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="610" y="3730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-183" value="修改位&amp;nbsp;M" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="730" y="3730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-184" value="外存地址" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="850" y="3730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-185" value="&lt;span&gt;请求分页页表字段&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="3790" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
