@@ -619,9 +619,9 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-198" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1150" y="4650" width="20" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-199" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=11.871455576559546;endSize=3.8260869565217397;width=4.347826086956522;" edge="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-199" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=4.914933837429111;endSize=4.28695652173913;width=4.347826086956522;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1200" y="4740" as="sourcePoint" />
+            <mxPoint x="1210" y="4740" as="sourcePoint" />
             <mxPoint x="1290" y="4740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
