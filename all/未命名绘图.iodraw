@@ -391,25 +391,25 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-132" value="组内&lt;div&gt;块号&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="760" y="3280" width="43" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-133" value="物理块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-133" value="物理块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="360" y="3720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-134" value="页号" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-134" value="页号" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="3720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-135" value="状态位&amp;nbsp;P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-135" value="状态位&amp;nbsp;P" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="480" y="3720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-136" value="访问字段&amp;nbsp;A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-136" value="访问字段&amp;nbsp;A" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="3720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-137" value="修改位&amp;nbsp;M" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-137" value="修改位&amp;nbsp;M" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="3720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-138" value="外存地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-138" value="外存地址" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="840" y="3720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-141" value="&lt;b&gt;请求分页页表字段&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-141" value="&lt;span&gt;请求分页页表字段&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="540" y="3780" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
