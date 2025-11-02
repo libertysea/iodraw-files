@@ -664,6 +664,93 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-208" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;物理地址&amp;nbsp;PA&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="720" y="4138" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-209" value="主存块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="210" y="3050" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-210" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="490" y="3130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-211" value="标记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="210" y="3130" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-212" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="490" y="3210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-213" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="490" y="3290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-214" value="标记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="210" y="3210" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-215" value="Cache&amp;nbsp;块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="370" y="3210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-216" value="标记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="210" y="3290" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-217" value="Cache&amp;nbsp;组号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="420" y="3290" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-218" value="全相联映射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3135" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-219" value="直接映射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="85" y="3215" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-220" value="组相联映射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3295" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-221" value="物理地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="375" y="2980" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-222" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="490" y="3050" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-223" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=south;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="210" y="3020" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-224" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="3150" as="sourcePoint" />
+            <mxPoint x="730" y="3150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-225" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="3229.41" as="sourcePoint" />
+            <mxPoint x="730" y="3229.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-226" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="3309.41" as="sourcePoint" />
+            <mxPoint x="730" y="3309.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-227" value="Cache&amp;nbsp;地址" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="770" y="3050" width="233" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-228" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="893" y="3290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-229" value="Cache&amp;nbsp;组号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="813" y="3290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-230" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="890" y="3130" width="113" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-231" value="Cache 行号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="770" y="3130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-232" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="890" y="3210" width="113" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-233" value="Cache&amp;nbsp;块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="770" y="3210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-234" value="组内&lt;div&gt;块号&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="770" y="3290" width="43" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
