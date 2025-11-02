@@ -643,8 +643,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-204" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="955" y="4738" width="50" height="30" as="geometry" />
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-204" value="&lt;b&gt;更新&amp;nbsp;TLB&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="4750" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
