@@ -495,7 +495,7 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-165" value="TLB&amp;nbsp;标记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="4620" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-166" value="TLB&amp;nbsp;标记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-166" value="TLB&amp;nbsp;标记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="4680" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-167" value="TLB&amp;nbsp;全相联映射方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -506,6 +506,12 @@
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-169" value="组号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="620" y="4680" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-170" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=3.5294117647058822;endSize=2.348;endWidth=6.588235294117647;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="579.6" y="4561" as="sourcePoint" />
+            <mxPoint x="579.6" y="4601" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
