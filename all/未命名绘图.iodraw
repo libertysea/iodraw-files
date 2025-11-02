@@ -580,6 +580,9 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-185" value="&lt;span&gt;请求分页页表字段&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="620" y="4860" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-186" value="TLB&amp;nbsp;未命中，查找页表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="4738" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
