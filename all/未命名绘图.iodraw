@@ -531,10 +531,13 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-175" value="物理块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1000" y="4640" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-176" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-176" value="" style="endArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="4630" as="sourcePoint" />
+            <mxPoint x="410" y="4530" as="sourcePoint" />
             <mxPoint x="220" y="4640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="4550" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
