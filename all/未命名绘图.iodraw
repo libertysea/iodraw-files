@@ -551,7 +551,8 @@
               <mxPoint x="60" y="4560" />
               <mxPoint x="40" y="4640" />
               <mxPoint x="70" y="4740" />
-              <mxPoint x="100" y="4730" />
+              <mxPoint x="90" y="4760" />
+              <mxPoint x="180" y="4760" />
             </Array>
           </mxGeometry>
         </mxCell>
