@@ -415,8 +415,8 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-142" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="4120" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-143" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="4040" width="120" height="60" as="geometry" />
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-143" value="内存管理单元&lt;div&gt;MMU&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3960" width="110" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
