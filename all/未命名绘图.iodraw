@@ -486,7 +486,7 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-163" value="页内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="680" y="4520" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-164" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.8;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2_hzhPyIaynjxnurSJnJ-162">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-164" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.8;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;width=3.5294117647058822;endSize=7.294117647058824;" edge="1" parent="1" target="2_hzhPyIaynjxnurSJnJ-162">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="4330" as="sourcePoint" />
             <mxPoint x="360" y="4340" as="targetPoint" />
