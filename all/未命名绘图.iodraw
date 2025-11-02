@@ -674,7 +674,7 @@
           <mxGeometry x="1118.5" y="5220" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-212" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="1398.5" y="5280" width="120" height="40" as="geometry" />
+          <mxGeometry x="1398.5" y="5300" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-213" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="1398.5" y="5360" width="120" height="40" as="geometry" />
@@ -683,10 +683,10 @@
           <mxGeometry x="1118.5" y="5300" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-215" value="Cache&amp;nbsp;块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="1278.5" y="5280" width="120" height="40" as="geometry" />
+          <mxGeometry x="1278.5" y="5300" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-216" value="标记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="1118.5" y="5360" width="210" height="40" as="geometry" />
+          <mxGeometry x="1118.5" y="5380" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-217" value="Cache&amp;nbsp;组号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="1328.5" y="5360" width="70" height="40" as="geometry" />
