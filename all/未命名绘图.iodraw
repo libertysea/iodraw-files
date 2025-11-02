@@ -421,11 +421,14 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-142" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="160" y="4120" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_hzhPyIaynjxnurSJnJ-143" target="2_hzhPyIaynjxnurSJnJ-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-143" value="内存管理单元&lt;div&gt;MMU&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="360" y="4040" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-144" value="Cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="560" y="4120" width="120" height="120" as="geometry" />
+          <mxGeometry x="570" y="4120" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-145" value="主存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="883" y="4080" width="80" height="160" as="geometry" />
