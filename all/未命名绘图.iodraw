@@ -499,10 +499,10 @@
           <mxGeometry x="480" y="4680" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-167" value="TLB&amp;nbsp;全相联映射方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="4618" width="130" height="30" as="geometry" />
+          <mxGeometry x="310" y="4615" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-168" value="TLB&amp;nbsp;组相联映射方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="4668" width="130" height="30" as="geometry" />
+          <mxGeometry x="310" y="4675" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-169" value="组号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="620" y="4680" width="60" height="20" as="geometry" />
