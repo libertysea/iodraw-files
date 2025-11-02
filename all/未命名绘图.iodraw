@@ -586,6 +586,12 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-187" value="&lt;ol type=&quot;a&quot; style=&quot;direction: ltr; unicode-bidi: embed; margin-top: 0in; font-family: &amp;quot;霞鹜文楷等宽 Medium&amp;quot;; font-size: 12pt;&quot;&gt;&lt;br&gt; &lt;li value=&quot;1&quot; style=&quot;font-weight: normal; margin-top: 0px; margin-bottom: 0px; vertical-align: middle;&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;霞鹜文楷等宽 Medium&amp;quot;;font-size:12.0pt;&amp;lt;br/&amp;gt;     font-weight:normal;font-style:normal;font-family:&amp;quot;霞鹜文楷等宽 Medium&amp;quot;;&amp;lt;br/&amp;gt;     font-size:12.0pt&quot; lang=&quot;zh-CN&quot;&gt;若页表命中，取出页框号，形成物理地址，更新&lt;/span&gt;&lt;span style=&quot;font-family:&amp;quot;霞鹜文楷等宽 Medium&amp;quot;;font-size:12.0pt;font-weight:normal;&amp;lt;br/&amp;gt;     font-style:normal;font-family:&amp;quot;霞鹜文楷等宽 Medium&amp;quot;;font-size:12.0pt&quot; lang=&quot;en-US&quot;&gt; TLB&lt;/span&gt;&lt;span style=&quot;font-family:&amp;quot;霞鹜文楷等宽 Medium&amp;quot;;font-size:&amp;lt;br/&amp;gt;     12.0pt;font-weight:normal;font-style:normal;font-family:&amp;quot;霞鹜文楷等宽 Medium&amp;quot;;&amp;lt;br/&amp;gt;     font-size:12.0pt&quot; lang=&quot;zh-CN&quot;&gt;。&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;margin-top: 0px; margin-bottom: 0px; vertical-align: middle; color: black;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;霞鹜文楷等宽 Medium&amp;quot;; font-size: 12pt;&quot; lang=&quot;zh-CN&quot;&gt;若页表未命中，产生&lt;b&gt;缺页中断&lt;/b&gt;（内中断），将页面调入内存，取出页框号，形成物理地址，更新页表项，更新&lt;/span&gt;&lt;span style=&quot;font-weight: normal; font-family: &amp;quot;霞鹜文楷等宽 Medium&amp;quot;; font-size: 12pt;&quot; lang=&quot;en-US&quot;&gt; TLB&lt;/span&gt;&lt;span style=&quot;font-weight: normal; font-family: &amp;quot;霞鹜文楷等宽 Medium&amp;quot;; font-size: 12pt;&quot; lang=&quot;zh-CN&quot;&gt;。&lt;/span&gt;&lt;/li&gt;&lt;br&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="4870" width="863.5" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-188" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="2_hzhPyIaynjxnurSJnJ-146">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="4320" as="sourcePoint" />
+            <mxPoint x="800" y="4270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
