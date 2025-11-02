@@ -525,7 +525,7 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-172" value="TLB&amp;nbsp;表项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="930" y="4676" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-173" value="有效位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-173" value="有效位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="880" y="4640" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-174" value="TLB&amp;nbsp;标记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -645,6 +645,15 @@
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-204" value="&lt;b&gt;更新&amp;nbsp;TLB&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="940" y="4750" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-205" value="数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="358.8" y="4190" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-206" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;endWidth=5.714285714285714;endSize=2.5428571428571427;width=3.8095238095238093;startSize=2.5428571428571427;startWidth=5.714285714285714;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1.01;exitY=0.677;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="279.8" y="4223" as="sourcePoint" />
+            <mxPoint x="481.8" y="4222" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
