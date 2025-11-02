@@ -413,7 +413,10 @@
           <mxGeometry x="540" y="3780" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-142" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="4160" width="120" height="120" as="geometry" />
+          <mxGeometry x="160" y="4120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-143" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="4040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
