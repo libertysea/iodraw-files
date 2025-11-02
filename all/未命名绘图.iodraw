@@ -737,10 +737,10 @@
           <mxGeometry x="1721.5" y="5360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-230" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="1798.5" y="5200" width="113" height="40" as="geometry" />
+          <mxGeometry x="1798.5" y="5220" width="113" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-231" value="Cache 行号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="1678.5" y="5200" width="120" height="40" as="geometry" />
+          <mxGeometry x="1678.5" y="5220" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-232" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="1798.5" y="5280" width="113" height="40" as="geometry" />
