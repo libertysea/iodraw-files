@@ -320,16 +320,16 @@
           <mxGeometry x="480" y="3280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-103" value="标记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="200" y="3200" width="180" height="40" as="geometry" />
+          <mxGeometry x="200" y="3200" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-104" value="Cache&amp;nbsp;块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="380" y="3200" width="100" height="40" as="geometry" />
+          <mxGeometry x="360" y="3200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-105" value="标记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="200" y="3280" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" y="3280" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-106" value="Cache&amp;nbsp;组号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="420" y="3280" width="60" height="40" as="geometry" />
+          <mxGeometry x="410" y="3280" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-107" value="全相联映射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="3125" width="80" height="30" as="geometry" />
