@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="HeoaJlOLixNxvhj33o4t">
-    <mxGraphModel dx="1158" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1985" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -781,8 +781,8 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-243" value="0x 78" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="360" y="5920" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-244" value="大端方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="5" y="5925" width="70" height="30" as="geometry" />
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-244" value="大端方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fontColor=#FF0000;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="5925" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-245" value="低地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="130" y="5968" width="60" height="30" as="geometry" />
