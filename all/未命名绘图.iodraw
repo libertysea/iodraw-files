@@ -826,12 +826,6 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-257" value="0x 12 34 56 78" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="225" y="5858" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-258" value="MSB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="495" y="5890" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-259" value="LSB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="613.5" y="5888" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-260" value="0x 12 34 56 78" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="525" y="5930" width="110" height="30" as="geometry" />
         </mxCell>
