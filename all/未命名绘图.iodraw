@@ -797,16 +797,16 @@
           <mxGeometry x="691.75" y="5968" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-249" value="0x 12" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="440" y="6040" width="80" height="40" as="geometry" />
+          <mxGeometry x="715" y="6130" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-250" value="0x 34" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="520" y="6040" width="80" height="40" as="geometry" />
+          <mxGeometry x="520" y="6130" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-251" value="0x 56" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="600" y="6040" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-252" value="0x 78" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="680" y="6040" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="6040" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-253" value="小端方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="325" y="6045" width="70" height="30" as="geometry" />
