@@ -769,10 +769,10 @@
             <mxPoint x="360" y="5178.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-240" value="0x 12" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-240" value="0x 12" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="120" y="5920" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-241" value="0x 34" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-241" value="0x 34" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="5920" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-242" value="0x 56" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
@@ -781,7 +781,7 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-243" value="0x 78" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="360" y="5920" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-244" value="大端方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fontColor=#FF0000;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-244" value="大端方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fontColor=#FF0000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-5" y="5925" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-245" value="低地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
@@ -808,8 +808,8 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-252" value="0x 78" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="120" y="6040" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-253" value="小端方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="5" y="6045" width="70" height="30" as="geometry" />
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-253" value="小端方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fontColor=#0000FF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="6045" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-254" value="低地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="130" y="6088" width="60" height="30" as="geometry" />
