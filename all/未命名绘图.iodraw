@@ -844,6 +844,12 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-263" value="高地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="490" y="6088" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-266" value="低地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="608.5" y="6088" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-267" value="0x 12 34 56 78" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="525" y="6045" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
