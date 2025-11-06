@@ -775,10 +775,10 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-241" value="0x 34" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="5920" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-242" value="0x 56" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-242" value="0x 56" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="280" y="5920" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-243" value="0x 78" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-243" value="0x 78" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="5920" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-244" value="大端方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fontColor=#FF0000;fontSize=16;" vertex="1" parent="1">
@@ -805,7 +805,7 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-251" value="0x 56" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
           <mxGeometry x="200" y="6040" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-252" value="0x 78" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-252" value="0x 78" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="6040" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-253" value="小端方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fontColor=#0000FF;fontSize=16;" vertex="1" parent="1">
