@@ -321,7 +321,7 @@
         <mxCell id="nBYAlKluWF0-FtBwFHSE-21" value="盘面（磁头）号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBYAlKluWF0-FtBwFHSE-22" value="磁盘组号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-22" value="扇区号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1960" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
