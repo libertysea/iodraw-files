@@ -315,14 +315,17 @@
         <mxCell id="nBYAlKluWF0-FtBwFHSE-19" value="磁盘组号" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="120" y="1960" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBYAlKluWF0-FtBwFHSE-20" value="柱面（磁道）号" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-20" value="柱面（磁道）号" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="200" y="1960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBYAlKluWF0-FtBwFHSE-21" value="盘面（磁头）号" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-21" value="盘面（磁头）号" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="320" y="1960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBYAlKluWF0-FtBwFHSE-22" value="扇区号" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-22" value="扇区号" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="440" y="1960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1998" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
