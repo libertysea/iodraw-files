@@ -313,7 +313,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nBYAlKluWF0-FtBwFHSE-19" value="磁盘组号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1960" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="1960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-20" value="磁盘组号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-21" value="磁盘组号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-22" value="磁盘组号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1960" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
