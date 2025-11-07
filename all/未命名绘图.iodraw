@@ -324,8 +324,8 @@
         <mxCell id="nBYAlKluWF0-FtBwFHSE-22" value="扇区号" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=霞鹜文楷等宽 Medium;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="440" y="1960" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBYAlKluWF0-FtBwFHSE-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="1998" width="50" height="30" as="geometry" />
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-24" value="磁盘地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="225" y="1998" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
