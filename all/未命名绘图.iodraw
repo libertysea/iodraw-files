@@ -316,13 +316,18 @@
           <mxGeometry x="120" y="1960" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBYAlKluWF0-FtBwFHSE-20" value="柱面（磁道）号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1960" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="1960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBYAlKluWF0-FtBwFHSE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nBYAlKluWF0-FtBwFHSE-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="2110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nBYAlKluWF0-FtBwFHSE-21" value="磁盘组号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1960" width="80" height="40" as="geometry" />
+          <mxGeometry x="310" y="2090" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBYAlKluWF0-FtBwFHSE-22" value="磁盘组号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1960" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="1960" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
