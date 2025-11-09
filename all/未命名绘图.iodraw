@@ -622,10 +622,10 @@
             <mxPoint x="1281" y="4740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-200" value="物理块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-200" value="物理块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1320" y="4740" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-201" value="页内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-201" value="页内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1390" y="4740" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-202" value="&lt;b&gt;物理地址&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
@@ -892,10 +892,10 @@
             <mxPoint x="1395.03" y="4830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-285" value="主存块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-285" value="主存块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1320" y="4850" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-286" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-286" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1430" y="4850" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-287" value="&lt;b&gt;物理地址&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
