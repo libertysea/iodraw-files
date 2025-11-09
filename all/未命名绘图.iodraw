@@ -892,6 +892,12 @@
             <mxPoint x="1395.03" y="4830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-285" value="物理块号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="4850" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-286" value="页内地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="4850" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
