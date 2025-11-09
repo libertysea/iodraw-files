@@ -904,7 +904,7 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-288" value="&lt;span&gt;&lt;font face=&quot;霞鹜文楷等宽 Medium&quot;&gt;LSB&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="630" y="5890" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-289" value="&lt;font face=&quot;霞鹜文楷等宽 Medium&quot;&gt;MSB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-289" value="&lt;font face=&quot;霞鹜文楷等宽 Medium&quot;&gt;MSB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="480" y="5888" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
