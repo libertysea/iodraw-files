@@ -862,7 +862,7 @@
         <mxCell id="2_hzhPyIaynjxnurSJnJ-274" value="&lt;p style=&quot;margin-top:5pt;margin-bottom:5pt;font-family:&amp;quot;霞鹜文楷等宽 Medium&amp;quot;;&#xa;font-size:12.0pt&quot;&gt;&lt;span style=&quot;font-weight:bold;&#xa;color:#FA0000;background:#F2DCDB&quot; lang=&quot;zh-CN&quot;&gt;异常处理完毕&lt;/span&gt;&lt;span style=&quot;color:black;background:#F2DCDB&quot; lang=&quot;zh-CN&quot;&gt;，&lt;/span&gt;&lt;span style=&quot;font-weight:bold;color:#FA0000;background:#F2DCDB&quot; lang=&quot;zh-CN&quot;&gt;操作系统返回到被中断的指令重新执行&lt;/span&gt;&lt;span style=&quot;color:black;background:#F2DCDB&quot; lang=&quot;zh-CN&quot;&gt;。此时，MMU&lt;/span&gt;&lt;span style=&quot;color:black;background:#F2DCDB&quot; lang=&quot;en-US&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:black;background:#F2DCDB&quot; lang=&quot;zh-CN&quot;&gt;再次进行地址转换，查找快表&lt;/span&gt;&lt;span style=&quot;color:black;background:#F2DCDB&quot; lang=&quot;en-US&quot;&gt; TLB&lt;/span&gt;&lt;span style=&quot;color:black;background:#F2DCDB&quot; lang=&quot;zh-CN&quot;&gt;，取出页框号，形成物理地址。&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="4960" width="730" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-275" value="" style="endArrow=classic;html=1;rounded=0;curved=1;strokeColor=#EA6B66;" edge="1" parent="1">
+        <mxCell id="2_hzhPyIaynjxnurSJnJ-275" value="" style="endArrow=classic;html=1;rounded=0;curved=1;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="5010" as="sourcePoint" />
             <mxPoint x="450" y="4440" as="targetPoint" />
