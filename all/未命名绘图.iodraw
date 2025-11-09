@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="HeoaJlOLixNxvhj33o4t">
-    <mxGraphModel dx="2430" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1599" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -640,9 +640,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2_hzhPyIaynjxnurSJnJ-204" value="&lt;b&gt;更新&amp;nbsp;TLB&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;" vertex="1" parent="1">
-          <mxGeometry x="940" y="4750" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-205" value="&lt;span&gt;数据&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=霞鹜文楷等宽 Medium;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="389" y="4190" width="50" height="30" as="geometry" />
         </mxCell>
@@ -875,7 +872,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2_hzhPyIaynjxnurSJnJ-276" value="&lt;p style=&quot;margin-top:5pt;margin-bottom:5pt;font-family:&amp;quot;霞鹜文楷等宽 Medium&amp;quot;;&#xa;font-size:12.0pt;color:black&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;页表命中，取出页框号，形成物理地址，&lt;/span&gt;&lt;span style=&quot;font-weight:bold&quot; lang=&quot;zh-CN&quot;&gt;更新&lt;/span&gt;&lt;span style=&quot;font-weight:bold&quot; lang=&quot;en-US&quot;&gt; TLB&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="631.5" y="4740" width="300" height="50" as="geometry" />
+          <mxGeometry x="790" y="4750" width="300" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
